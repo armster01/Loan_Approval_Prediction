@@ -31,13 +31,14 @@ Gradient Boosting
 ## Dependencies
 Python 3.x
 Jupyter Notebook
-Libraries:
+## Libraries:
 pandas
 numpy
 scikit-learn
 matplotlib
 seaborn
-Conclusion
+
+## Conclusion
 This project demonstrates an effective approach to predict loan approvals using machine learning. The insights gained from the model can help financial institutions make better, data-driven decisions.
 
 ## Future Improvements
